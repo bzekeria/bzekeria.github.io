@@ -16,8 +16,8 @@ author: Baraa Zekeria
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll: 
+    - Learn markdown: 
   Author's home: "bzekeria.github.io"
 
 # --- Logo --- #
@@ -42,7 +42,7 @@ social-network-links:
   email: "bzekeria@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: bzekeria
-  linkedin: bzekeria
+  linkedin: baraa-zekeria
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
