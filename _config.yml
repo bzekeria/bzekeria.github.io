@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "bzekeria.github.io"
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "bzekeria@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: bzekeria
   linkedin: bzekeria
 
 # If you want your website to generate an RSS feed, provide a description
