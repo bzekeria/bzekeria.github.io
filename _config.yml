@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: baraa zekeria
+title: Baraa Zekeria
 
 # Your name to show in the footer
 author: Baraa Zekeria
@@ -14,11 +14,14 @@ author: Baraa Zekeria
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: 
-    - Learn markdown: 
-  Author's home: "bzekeria.github.io"
+#   Resources:
+#     - Beautiful Jekyll: 
+#     - Learn markdown: 
+#   Author's home: "bzekeria.github.io"
+  Projects: "projects"
+  Contact: "contact"
 
 # --- Logo --- #
 
