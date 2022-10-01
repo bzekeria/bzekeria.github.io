@@ -16,10 +16,6 @@ author: Baraa Zekeria
 navbar-links:
   Home: ""
   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: 
-#     - Learn markdown: 
-#   Author's home: "bzekeria.github.io"
   Projects: "projects"
   Contact: "contact"
 
