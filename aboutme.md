@@ -4,6 +4,8 @@ title: About Me
 subtitle: 
 ---
 
+Last Updated: 10/1/2022
+
 ### Introduction 👋
 
 Hello! 
