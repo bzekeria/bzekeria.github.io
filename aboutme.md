@@ -27,7 +27,7 @@ I'm interested at the intersection of data science, ethics, and textual analysis
 #### Favorite Courses 📚
 
   - [DSC 10: Principles of Data Science](https://eldridgejm.github.io/dsc10-2021-su/)
-  - [POLI 170: Algorithms, Policy, and Ethics](http://courses.ucsd.edu/syllabi/FA21/55494.pdf)
+  - [POLI 170: Algorithms, Public Policy, and Ethics](http://courses.ucsd.edu/syllabi/FA21/55494.pdf)
 
 #### Why data science? 💻 📈
 It was during my senior year of high school where my AP Statisics teacher enthusiatically taught us how data is applicable to every field. It was really her energy and love for the subject that made me enjoy the course. During college, I took my first programming course and eventually discovered my path to the tech sector. 
