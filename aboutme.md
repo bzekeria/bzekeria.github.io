@@ -7,7 +7,7 @@ subtitle:
 ### Introduction 👋
 
 Hello! 
-I'm an undergraduate student (2024) at the University of California, San Diego (UC San Diego) with a major in [B.S. Political Science/Data Analytics](https://polisci.ucsd.edu/undergrad/major-and-minor-requirements/data_analytics.html) and a minor in [Data Scince](https://datascience.ucsd.edu/academics/undergraduate/minor-requirements/).
+I'm an undergraduate student (2024) at the University of California, San Diego (UC San Diego) with a major in [B.S. Political Science/Data Analytics](https://polisci.ucsd.edu/undergrad/major-and-minor-requirements/data_analytics.html) and a minor in [Data Science](https://datascience.ucsd.edu/academics/undergraduate/minor-requirements/).
 I'm interested at the intersection of data science, ethics, and textual analysis to answer real-world problems facing society.
 
 
