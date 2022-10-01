@@ -7,9 +7,7 @@ subtitle:
 ### Introduction 👋
 
 Hello! 
-
 I'm an undergraduate student (2024) at the University of California, San Diego (UC San Diego) with a major in [B.S. Political Science/Data Analytics](https://polisci.ucsd.edu/undergrad/major-and-minor-requirements/data_analytics.html) and a minor in [Data Scince](https://datascience.ucsd.edu/academics/undergraduate/minor-requirements/).
-
 I'm interested at the intersection of data science, ethics, and textual analysis to answer real-world problems facing society.
 
 
@@ -30,7 +28,6 @@ I'm interested at the intersection of data science, ethics, and textual analysis
   - [POLI 170: Algorithms, Policy, and Ethics](http://courses.ucsd.edu/syllabi/FA21/55494.pdf)
 
 #### Why data science? 💻 📈
-
 It was during my senior year of high school where my AP Statisics teacher enthusiatically taught us how data is applicable to every field. It was really her energy and love for the subject that made me enjoy the course. During college, I took my first programming course and eventually discovered my path to the tech sector. 
 
 _**Resume available upon request (email me at [bzekeria@gmail.com](mailto:bzekeria@gmail.com))**_
