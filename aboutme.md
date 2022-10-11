@@ -17,7 +17,7 @@ I'm interested at the intersection of data science, ethics, and textual analysis
 
   - Instructional Assistant for [COMM 106E: Data, Science, and Society](https://stuartgeiger.com/teaching/COMM-106E-data-science-society-f22/)
   - Data Curation Asssitant for [The Library at UC San Diego ](https://library.ucsd.edu/research-and-collections/research-data/index.html)
-  - Member for the [National Soceity of Black Engineers (NSBE)](https://nsbe.ucsd.edu/#about)
+  ##- Member for the [National Soceity of Black Engineers (NSBE)](https://nsbe.ucsd.edu/#about)##
 
 #### What do I want to accomplish before I graduate from UC San Diego? 💡
 
