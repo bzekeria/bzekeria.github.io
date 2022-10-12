@@ -25,8 +25,8 @@ Last Updated: 10/12/2022
   - Create a tracker spreadsheet (see my [DataLemur](https://datalemur.com) example below) and include [reflections](https://dandkim.com/leetcode-effectively/#reflections)
            
  <p align="center">
-  <img src="/assets/img/reflections.png" width="500"/>
+  <img src="/assets/img/reflections.png" width="600"/>
 </p>
                              
-```ERROR: right-click on the image to view it```
+
  
