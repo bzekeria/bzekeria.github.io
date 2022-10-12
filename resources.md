@@ -2,6 +2,7 @@ Last Updated: 10/12/2022
 
 ## Here's a list of my favorite resources:
 
+
 ### Python for Data Analysis
   - [Python Tutor](https://pythontutor.com): Visualize your code under the hood
   - [UCSD DSC 10 Textbook](https://notes.dsc10.com/front.html): Interactive tutorial into the fundamentals of pandas, NumPy, Matplotlib, etc. 
