@@ -17,6 +17,7 @@ navbar-links:
   Home: "https://bzekeria.github.io"
   About Me: "aboutme"
   Projects: "projects"
+  Resources: "resources"
   Contact: "contact"
 
 # --- Logo --- #
