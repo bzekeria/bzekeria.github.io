@@ -28,5 +28,5 @@ Last Updated: 10/12/2022
   <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500"/>
 </p>
                              
-          ```error =  "right-click on the image to view the image"```
+```error =  "right-click on the image to view the image"```
  
