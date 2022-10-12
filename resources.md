@@ -9,7 +9,8 @@ Last Updated: 10/12/2022
 
 
 #### Articles/Papers 📎
-  - [*Fairness Definitions Explained*](https://fairware.cs.umass.edu/papers/Verma.pdf) (Sahil Verma and Julia Rubin)
+  - [*Fairness Definitions Explained*](https://fairware.cs.umass.edu/papers/Verma.pdf) by Sahil Verma and Julia Rubin
+  - [*Tidy Data*](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickhan 
   
 #### Python 🐍
   - [Python Tutor](https://pythontutor.com): Visualize your code under the hood
@@ -19,6 +20,7 @@ Last Updated: 10/12/2022
 #### R 📊
   - [UCSD COGS 137 (Practical Data Science in R)](https://cogs137.github.io/website/syllabus/): Great crash-course in learning the basics of R *(see Weeks 1-3)*
   - [from Data to Viz](https://www.data-to-viz.com): Guide to choose the appropiate graph for your data (ggplot)
+  - [Tidy Data Tutor](https://tidydatatutor.com): Visualize how your data frame transforms under the hood
 
 #### SQL 💻
   - [SQL Queries for Mere Mortals (4th Edition)](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336/ref=pd_lpo_1?pd_rd_i=0134858336&psc=1): Beginner friendly and an in-depth view of all things SQL 
