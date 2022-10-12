@@ -24,7 +24,6 @@ Last Updated: 10/12/2022
 
 #### SQL 💻
   - [SQL Queries for Mere Mortals (4th Edition)](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336/ref=pd_lpo_1?pd_rd_i=0134858336&psc=1): Beginner friendly and an in-depth view of all things SQL 
-  - [DataLemur](https://datalemur.com): Real-world SQL practice questions 
 
 #### Interview Prep 💼
   - [StrataScratch](https://www.stratascratch.com): Real data science interview practice questions (Python/R/SQL)
