@@ -13,7 +13,7 @@ Last Updated: 10/12/2022
   
 ### R
   - [UCSD COGS 137: Practical Data Science in R](https://cogs137.github.io/website/syllabus/): Great crash-course in learning the basics of R *(see Weeks 1-3)*
-  - [from Data to Viz](https://www.data-to-viz.com): Guide to choose the appropiate graph for your data
+  - [from Data to Viz](https://www.data-to-viz.com): Guide to choose the appropiate graph for your data (ggplot)
 
 ### Interview Prep
   - [StrataScratch](https://www.stratascratch.com): Real data science interview practice questions (Python/R/SQL)
