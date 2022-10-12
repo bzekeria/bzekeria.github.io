@@ -20,7 +20,7 @@ I'm interested at the intersection of data science, ethics, and textual analysis
 
 #### What do I want to accomplish before I graduate from UC San Diego? 💡
 
-  - Get an internship 
+  - Secure an internship 
   - Senior Thesis
 
 #### Favorite Courses 📚
