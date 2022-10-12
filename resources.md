@@ -24,5 +24,5 @@ Last Updated: 10/12/2022
   - Create a spreadsheet coding questions tracker (see my [DataLemur](https://datalemur.com) example below) you solved and include [reflections](https://dandkim.com/leetcode-effectively/#reflections) (great article!)
            <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500"/> 
  <p align="center">
-  <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500" />
+  <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500" alt="Sublime's custom image"/>
 </p>
