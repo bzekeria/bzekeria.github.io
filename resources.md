@@ -27,4 +27,5 @@ Last Updated: 10/12/2022
  <p align="center">
   <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500"/>
 </p>
+                             
                              *If the image isn't showing, right-click on the image and select open in a new tab/download image*
