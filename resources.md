@@ -5,7 +5,7 @@ Last Updated: 10/12/2022
 
 ### Python for Data Analysis
   - [Python Tutor](https://pythontutor.com): Visualize your code under the hood
-  - [UCSD DSC 10 Textbook](https://notes.dsc10.com/front.html): Interactive tutorial into the fundamentals of pandas, NumPy, Matplotlib, etc. 
+  - [UCSD DSC 10 Textbook](https://notes.dsc10.com/front.html): An interactive textbook teaching the fundamentals of pandas, NumPy, Matplotlib, etc. 
   - [Pandas Tutor](https://pandastutor.com): Visualize how your data frame transforms under the hood
 
 ### R
