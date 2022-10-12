@@ -12,7 +12,7 @@ Last Updated: 10/12/2022
   - [DataLemur](https://datalemur.com): Real-world SQL practice questions 
   
 ### R
-  - [UCSD COGS 137: Practical Data Science in R](https://cogs137.github.io/website/syllabus/): Great crash-course in learning the basics of R *see Weeks 1-3*
+  - [UCSD COGS 137: Practical Data Science in R](https://cogs137.github.io/website/syllabus/): Great crash-course in learning the basics of R *(see Weeks 1-3)*
   - [from Data to Viz](https://www.data-to-viz.com): Guide to choose the appropiate graph for your data
 
 ### Interview Prep
