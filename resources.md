@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+subtitle: 
+---
+
 Last Updated: 10/12/2022
 
 ### Here's a list of my favorite resources:
