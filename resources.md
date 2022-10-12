@@ -22,4 +22,7 @@ Last Updated: 10/12/2022
 ### Tips
   - Breathe and go at your own pace
   - Create a spreadsheet tracker of the questions you solved and include [reflections](https://dandkim.com/leetcode-effectively/#reflections) (great article!)
-  ![reflections](assets/img/reflections.png)
+           ![reflections](assets/img/reflections.png)
+  | ![reflections](assets/img/reflections.png) |
+|:--:|
+| <b>DataLemur questions above</b>|
