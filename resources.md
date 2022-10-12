@@ -4,7 +4,7 @@ Last Updated: 10/12/2022
 
 ### Python for Data Analysis
   - [Python Tutor](https://pythontutor.com): Visualize your code under the hood
-  - [Dive into Data Science (aka UCSD DSC 10 Notes)](https://notes.dsc10.com/front.html): Interactive textbook tutorial into pandas, NumPy, Matplotlib, etc. 
+  - [UCSD DSC 10 Textbook](https://notes.dsc10.com/front.html): Interactive tutorial into the fundamentals of pandas, NumPy, Matplotlib, etc. 
   - [Pandas Tutor](https://pandastutor.com): Visualize how your data frame transforms under the hood
 
 ### SQL
@@ -22,5 +22,5 @@ Last Updated: 10/12/2022
 ### Tips
   - Breathe and go at your own pace
   - Create a spreadsheet tracker (see my example below) of the questions you solved and include [reflections](https://dandkim.com/leetcode-effectively/#reflections) (great article!)
-           ![reflections](assets/img/reflections.png)
+           ![reflections](assets/img/reflections.png =250x)
                     *DataLemur questions*
