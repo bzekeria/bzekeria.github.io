@@ -8,7 +8,9 @@ Last Updated: 10/12/2022
 
 ### Here's a list of my favorite resources:
 
-
+#### Articles/Papers
+  - [*Fairness Definitions Explained*](https://fairware.cs.umass.edu/papers/Verma.pdf) (Sahil Verma and Julia Rubin)
+  
 #### Python
   - [Python Tutor](https://pythontutor.com): Visualize your code under the hood
   - [UCSD DSC 10 Textbook](https://notes.dsc10.com/front.html): An interactive textbook teaching the fundamentals of pandas, NumPy, Matplotlib, etc. 
