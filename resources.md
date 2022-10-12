@@ -22,7 +22,7 @@ Last Updated: 10/12/2022
 
 ### Tips
   - Breathe and go at your own pace
-  - Create a tracker spreadsheet (see my [DataLemur](https://datalemur.com) example below) and include [reflections](https://dandkim.com/leetcode-effectively/#reflections) (great article!)
+  - Create a tracker spreadsheet (see my [DataLemur](https://datalemur.com) example below) and include [reflections](https://dandkim.com/leetcode-effectively/#reflections)
            
  <p align="center">
   <img src="https://github.com/bzekeria/bzekeria.github.io/blob/master/assets/img/reflections.png" width="500"/>
