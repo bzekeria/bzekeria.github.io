@@ -30,6 +30,6 @@ I'm interested at the intersection of data science, ethics, and textual analysis
   - [POLI 170: Algorithms, Public Policy, and Ethics](http://courses.ucsd.edu/syllabi/FA21/55494.pdf)
 
 #### Why data science? 💻 📈
-During my senior year of high school, my AP Statistics teacher enthusiastically taught us how data applies to every field. However, her energy and love for the subject really made me enjoy the course. During college, I took my first programming course and eventually discovered my path to the tech sector.
+During my senior year of high school, my AP Statistics teacher enthusiastically taught me how data applies to every field. Her energy and love for the subject made me enjoy the course. During college, I took my first programming course and eventually discovered my path to the tech sector.
 
 _**Resume available upon request (email me at [bzekeria@gmail.com](mailto:bzekeria@gmail.com))**_
