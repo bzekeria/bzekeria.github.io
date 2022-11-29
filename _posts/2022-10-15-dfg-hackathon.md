@@ -2,9 +2,8 @@
 layout: post
 title: First Hackathon
 subtitle: JP Morgan Data For Good Hackathon
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/jpm_logo.jpg
+thumbnail-img: /assets/img/dfg_oct_2022.png
 tags: [coding, hackathon]
 ---
 
